@@ -4,6 +4,11 @@
       "title": "The Story",
       "body": "I don't have a full story yet. We should fill this up later.",
       "id": 1
+    },
+    {
+      "title": "Another story",
+      "body": "I still have to tell you the full story later",
+      "id": 2
     }
   ]
 }
